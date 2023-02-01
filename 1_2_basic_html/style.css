@@ -18,3 +18,23 @@ h3 {
 p {
   font-size: 1em;
 }
+
+td {
+  border-bottom: 1px solid burlywood;
+}
+
+table {
+  border-spacing: 0px;
+}
+
+th {
+  text-align: left;
+}
+
+.middleInitial {
+  color: purple;
+}
+
+#specialForNastasia {
+  color: pink;
+}
