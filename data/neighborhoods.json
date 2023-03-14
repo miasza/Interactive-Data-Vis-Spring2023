@@ -1,0 +1,14 @@
+[
+    {
+        "state": "New York",
+        "city": "New York",
+        "borough": "Brooklyn",
+        "neighborhood": "Gowanus"
+    },
+    {
+        "state": "New York",
+        "city": "New York",
+        "borough": "The Bronx",
+        "neighborhood": "Throgs neck"
+    }
+]
